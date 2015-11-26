@@ -1,1 +1,6 @@
-995039fe-9421-11e5-890b-6335f3079732
+
+class lelele {
+    public static void main( String[] args ){
+        System.out.println("fuk u shit");
+    }
+}
